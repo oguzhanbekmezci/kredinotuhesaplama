@@ -12,7 +12,7 @@ class KrediNotuHesaplama(QWidget):
 
     def initUI(self):
         self.setWindowTitle("Kredi Notu Hesaplama")
-        self.setGeometry(100, 100, 600, 400)  # Pencere boyutlarını orta boyutlara ayarlıyoruz
+        self.setGeometry(100, 100, 600, 400)  # Pencere boyutları 
 
         # Arka plan rengini sarı olarak ayarlayın
         palette = self.palette()
